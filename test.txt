@@ -1,5 +1,0 @@
-test test
-
-ikinci commit oluşturuldu
-
-üçüncü commit oluşturuldu
